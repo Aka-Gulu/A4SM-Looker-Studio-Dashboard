@@ -22,3 +22,6 @@ The dashboard utilizes data from `Google Merchant Shop`. This data source provid
 - **Drill Up/Down**: Users can view data from different dimensions by clicking the drill up or down buttons on each plot.
 - **Sort and Export**: Users can sort data by various metrics and dimensions, and export charts using the options provided.
 
+### Dashboard Screenshot
+Here is the screenshot of the dashboard:
+![Ensemble Model](assets/LookerStudio Screenshot.png)
