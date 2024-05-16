@@ -24,4 +24,4 @@ The dashboard utilizes data from `Google Merchant Shop`. This data source provid
 
 ### Dashboard Screenshot
 Here is the screenshot of the dashboard:
-![Ensemble Model](assets/LookerStudio Screenshot.png)
+![Looker Studiol](assets/LookerStudio.png)
